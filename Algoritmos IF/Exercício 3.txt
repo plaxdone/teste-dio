@@ -1,0 +1,21 @@
+Ex.3) Faça um algoritmo que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
+25% = 25/100 = 0,25
+
+Forma 1:
+
+1) Obtenha o valor do salario inicial
+2) Multiple o valor do salario inicial por 0,25
+3) Some o valor do salario inicial com o resultado do passo 2
+4) Mostre o novo salario como sendo o resultado do passo 3
+
+Forma 2:
+
+1) Obtenha o valor do salario inicial
+2) Multiple o valor do salario inicial por 1,25
+3) Mostre o resultado do passo 2
+
+Forma 3:
+
+1) Obtenha o valor do salario inicial
+2) Aumente 25% do valor do salario inicial
+3) Mostre o resultado do passo 2

@@ -1,0 +1,10 @@
+Ex. 5) Escreva um algoritmo que receba o salário-base de um funcionário, calcule e mostre o salário a receber, sabendo-se que esse funcionário tem gratificação de 5% sobre o salário-base e paga imposto de 7% sobre o salário-base.
+
+salario-final = salario-base + (salario-base*0,05) - (salario-base*0,07)
+
+1) Receba/Obtenha o salario-base do funcionário
+2) Multiple o salario-base por 0,05
+3) Multiple o salario-base por 0,07
+4) Soma o resultado do passo 2 com o salario-base
+5) Subtrair o valor do passo 3 do resultado do passo 4
+6) Mostrar o resultado do passo 5

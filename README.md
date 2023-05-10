@@ -1,5 +1,5 @@
-# teste-dio
-descrição de teste para esse primeiro repositorio.
+# Teste DIO
+Criação do primeiro repositorio no curso de Git/GitHub.
 
 ## Markup
-[link doc](https://www.markdownguide.org/basic-syntax/)
+[link documentação](https://www.markdownguide.org/basic-syntax/)

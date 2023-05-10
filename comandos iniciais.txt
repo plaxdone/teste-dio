@@ -1,0 +1,6 @@
+criar pasta do projeto
+abrir git bash na pasta para facilitar
+git clone 'link' para baixar do github
+git add . ou -A para adicionar no versionamento
+git status para verificar situação
+git commit -m "o m é para mensagem, sempre inserir nos commits"

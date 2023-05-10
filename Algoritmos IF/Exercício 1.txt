@@ -1,0 +1,22 @@
+Ex.1) Faça um algoritmo que calcule e mostre a área de um círculo.
+Area = Pi * r * r
+
+Forma 1:
+
+1) Obtenha o valor do raio
+2) Multiple o valor raio por ele mesmo
+3) Multiple o resultado do passo 2 por 3,14
+4) Mostre o valor resultante do passo 3
+
+Forma 2:
+
+1) Obtenha o valor do raio
+2) Eleve o valor do raio ao quadrado
+3) Multiple o resultado do passo 2 por 3,14
+4) Mostre o valor resultante do passo 3
+
+Forma 3:
+
+1) Obtenha o valor do raio
+2) Eleve o valor do raio ao quadrado e multiplique por 3,14
+3) Mostre o valor resultante
