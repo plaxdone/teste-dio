@@ -4,3 +4,4 @@ git clone 'link' para baixar do github
 git add . ou -A para adicionar no versionamento
 git status para verificar situação
 git commit -m "o m é para mensagem, sempre inserir nos commits"
+git push origin main
